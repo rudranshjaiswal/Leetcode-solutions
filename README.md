@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
