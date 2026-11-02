@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
