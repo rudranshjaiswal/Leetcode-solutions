@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0136-single-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
