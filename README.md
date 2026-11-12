@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0136-single-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -63,4 +64,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
