@@ -13,7 +13,7 @@ public:
             max_idx = 0;
         }
 
-        int width = height.size() - 1; // Fixed variable name from 'w'
+        int width = height.size() - 1; 
         int max_area = min_height * width;
 
         while (width > 0) {
@@ -35,15 +35,15 @@ public:
                 min_height = max_height;
                 min_idx = max_idx;
                 max_idx = idx;
-                max_height = height[idx]; // Completed line 34
+                max_height = height[idx]; 
             } else {
-                // Case where height[idx] is between min_height and max_height
+                
                 min_height = height[idx];
                 min_idx = idx;
             }
 
-            // Update max_area with the newly found container
             max_area = max(max_area, min_height * width);
+            
         }
 
         return max_area;
