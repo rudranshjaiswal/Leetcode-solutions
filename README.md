@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0492-construct-the-rectangle](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/rudranshjaiswal/Leetcode-solutions/tree/master/0507-perfect-number) |
 ## Linked List
 |  |
